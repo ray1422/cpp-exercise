@@ -1,6 +1,8 @@
 #include <bits/stdc++.h>
 #pragma GCC optimize("Ofast,no-stack-protector")
 
+// QQ came here
+
 using namespace std;
 
 /*
@@ -45,7 +47,7 @@ int main() {
     cin.tie(0);
     int flag_today = 0;
     int h, w;
-    int n; // �Ѽ�
+    int n; // ¤Ñ¼Æ
     cin >> h >> w;
     for(int i = 1 ; i <= h; i++) {
         for(int j = 1; j <= w; j++) {
